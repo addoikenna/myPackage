@@ -18,6 +18,7 @@ from top_n_package import top_n
 # Example: Get the top 3 items from an array
 result = top_n([8, 3, 2, 7, 4], 3)
 print(result)  # Output: [8, 7, 4]
+```
 
 ## Installation
 You can install the package using pip:
